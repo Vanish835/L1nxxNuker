@@ -1,2 +1,3 @@
 # L1nxxNuker
-Discord Nuke Tool
+
+Website launching soon!
